@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "mysql2": "^2.3.3"
+  },
+  "name": "planetscale-connection-test",
+  "description": "PlanetScale-Connection-Test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandgarin/PlanetScale-Connection-Test.git"
+  },
+  "keywords": [
+    "planetScale",
+    "mysql"
+  ],
+  "author": "Juan Diego Garin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juandgarin/PlanetScale-Connection-Test/issues"
+  },
+  "homepage": "https://github.com/juandgarin/PlanetScale-Connection-Test#readme"
+}
